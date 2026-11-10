@@ -1,0 +1,22 @@
+{
+  "name": "noidagym-marketplace",
+  "version": "1.0.0",
+  "description": "Gym discovery and membership marketplace focused on Noida, India. Responsive web application with real-time sector search, distance calculations, facility comparisons, trial booking, and gym owner onboarding.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "node server.js",
+    "build": "node scripts/build.js",
+    "test": "node scripts/test-server.js"
+  },
+  "keywords": [
+    "gym-marketplace",
+    "noida",
+    "fitness",
+    "membership",
+    "responsive-web"
+  ],
+  "author": "NoidaGym Platform Team",
+  "license": "MIT"
+}
